@@ -68,3 +68,9 @@ This project aims to automate the classification process using machine learning.
    ```bash
    pip install -r requirements.txt
 
+## 📊 Dataset
+- Chest X-ray dataset containing multiple lung diseases
+- Source: Kaggle (Chest X-ray – 17 Diseases)
+- Link: https://www.kaggle.com/datasets/trainingdatapro/chest-xray-17-diseases
+- For this project, only **Normal** and **Pneumonia** images were used
+- Dataset is not uploaded due to size limitations
