@@ -1,18 +1,3 @@
-# Dataset (large files)
 dataset/
-
-# Python cache files
 __pycache__/
-*.pyc
-
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# Virtual environment (if any)
-venv/
-env/
-
-# OS files
-.DS_Store
-Thumbs.db
-
