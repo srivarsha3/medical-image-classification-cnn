@@ -83,6 +83,7 @@ The application allows users to upload chest X-ray images and predicts whether t
 - Uploaded chest X-ray image
 - Prediction result with classification label and confidence score
 
-  <img width="3185" height="2404" alt="2" src="https://github.com/user-attachments/assets/9df953c9-c821-4e25-aabc-665ab1d1eaed" />
+  <img width="3185" height="1659" alt="2" src="https://github.com/user-attachments/assets/21557265-49c5-4ff1-852e-7d0398afc308" />
+
 
 
