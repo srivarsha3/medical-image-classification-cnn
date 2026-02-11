@@ -73,6 +73,10 @@ This project aims to automate the classification process using machine learning.
 The trained CNN model is deployed using a Flask web application. 
 The application allows users to upload chest X-ray images and predicts whether the image indicates Pneumonia or Normal condition.
 
+
+<img width="1439" height="793" alt="1" src="https://github.com/user-attachments/assets/2732a152-5753-4930-bd5c-de67e4860ff2" />
+
+
 ### Output Screenshots
 
 - Home page with image upload option
