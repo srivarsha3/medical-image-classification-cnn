@@ -1,25 +1,25 @@
 # Medical Image Classification using CNN
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates how a Convolutional Neural Network (CNN) can be used to classify
 chest X-ray images into **Normal** and **Pneumonia** categories.  
 The model helps in understanding how deep learning can assist medical diagnosis.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To build a deep learning model that automatically classifies medical images
 and supports faster and accurate disease detection.
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 Manual analysis of medical images is time-consuming and prone to human error.
 This project aims to automate the classification process using machine learning.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Chest X-ray images (Normal and Pneumonia)
 - Publicly available medical dataset (e.g., Kaggle)
 - Dataset is organized into training and testing folders
@@ -28,7 +28,7 @@ This project aims to automate the classification process using machine learning.
 
 ---
 
-## ⚙️ Preprocessing Steps
+##  Preprocessing Steps
 - Image resizing
 - Grayscale conversion
 - Normalization of pixel values
@@ -36,14 +36,14 @@ This project aims to automate the classification process using machine learning.
 
 ---
 
-## 🤖 Model Used
+##  Model Used
 - Convolutional Neural Network (CNN)
 - Automatically extracts features from images
 - Suitable for medical image classification
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
@@ -52,7 +52,7 @@ This project aims to automate the classification process using machine learning.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - TensorFlow / Keras
 - OpenCV
@@ -62,13 +62,13 @@ This project aims to automate the classification process using machine learning.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 1. Clone the repository  
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-## 📊 Dataset
+##  Dataset
 - Chest X-ray dataset containing multiple lung diseases
 - Source: Kaggle (Chest X-ray – 17 Diseases)
 - Link: https://www.kaggle.com/datasets/trainingdatapro/chest-xray-17-diseases
