@@ -68,9 +68,14 @@ This project aims to automate the classification process using machine learning.
    ```bash
    pip install -r requirements.txt
 
-##  Dataset
-- Chest X-ray dataset containing multiple lung diseases
-- Source: Kaggle (Chest X-ray – 17 Diseases)
-- Link: https://www.kaggle.com/datasets/trainingdatapro/chest-xray-17-diseases
-- For this project, only **Normal** and **Pneumonia** images were used
-- Dataset is not uploaded due to size limitations
+## Web Application Output
+
+The trained CNN model is deployed using a Flask web application. 
+The application allows users to upload chest X-ray images and predicts whether the image indicates Pneumonia or Normal condition.
+
+### Output Screenshots
+
+- Home page with image upload option
+- Uploaded chest X-ray image
+- Prediction result with classification label and confidence score
+
